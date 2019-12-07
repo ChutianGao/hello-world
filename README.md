@@ -1,2 +1,2 @@
 # hello-world
-Hello World Project
+A Hello World Project
